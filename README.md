@@ -2,15 +2,22 @@
 
 Argus Stream Engine is the Argus Platform's framework for stream management
 
-## Where We're At Now
-
-12/01/24 Just moved all of the Argus Stream Engine stuff to a new Argus-Stream-Engine repository. We got vcpkg setup and behaving properly. Created a new argus-ios-client respository as it's going to posess both stream ingress and egress client features to expedite development of the platform. Still working on getting the demo from https://www.funvisiontutorials.com/2024/08/hls-video-streaming-from-opencv-and.html#Project_Structure to function all the way.
 
 ## Dependencies
 
 * gstreamer
 
 ## Setup
+
+https://www.funvisiontutorials.com/2023/11/opencv-installed-by-vcpkg-package.html
+
+cmake "-DCMAKE_TOOLCHAIN_FILE=C:/vcpkg/scripts/buildsystems/vcpkg.cmake" -DCMAKE_CXX_STANDARD=17 -A x64
+
+vcpkg install opencv:x64-windows ffmpeg:x64-windows
+
+.\Makefile.ps1 conf
+.\Makefile.ps1 del
+.\Makefile.ps1 build
 
 This repository uses vcpkg for pkg mgmt, instructions for vcpkg setup can be found online.
 

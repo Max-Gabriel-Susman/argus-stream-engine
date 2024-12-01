@@ -8,3 +8,4 @@ vendor/
 build/
 .vs/
 x64/
+docs/dev-notes.md
