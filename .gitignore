@@ -5,3 +5,6 @@ a.out
 go.mod
 go.sum
 vendor/
+build/
+.vs/
+x64/

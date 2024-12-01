@@ -1,2 +1,0 @@
-﻿  main.cpp
-C:\Users\prometheus\Documents\argus-stream-service\argus-stream-service\main.cpp(2,10): error C1083: Cannot open include file: 'gst/gst.h': No such file or directory

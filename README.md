@@ -2,6 +2,10 @@
 
 Argus Stream Engine is the Argus Platform's framework for stream management
 
+## Where We're At Now
+
+12/01/24 Just moved all of the Argus Stream Engine stuff to a new Argus-Stream-Engine repository. We got vcpkg setup and behaving properly. Created a new argus-ios-client respository as it's going to posess both stream ingress and egress client features to expedite development of the platform. Still working on getting the demo from https://www.funvisiontutorials.com/2024/08/hls-video-streaming-from-opencv-and.html#Project_Structure to function all the way.
+
 ## Dependencies
 
 * gstreamer
