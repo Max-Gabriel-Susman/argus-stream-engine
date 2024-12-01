@@ -1,6 +1,6 @@
-# Argus Stream Service 
+# Argus Stream Engine 
 
-The Argus Stream Service routes data from it's ingress clients to it's destination egress client
+Argus Stream Engine is the Argus Platform's framework for stream management
 
 ## Dependencies
 
