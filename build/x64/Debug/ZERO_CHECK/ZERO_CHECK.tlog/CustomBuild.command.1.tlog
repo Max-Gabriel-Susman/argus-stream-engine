@@ -1,0 +1,10 @@
+^C:\USERS\PROMETHEUS\DOCUMENTS\ARGUS-STREAM-SERVICE\BUILD\CMAKEFILES\018BA0B3E6CC56E1DD1ED87031EC2E61\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/prometheus/Documents/argus-stream-service -BC:/Users/prometheus/Documents/argus-stream-service/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/prometheus/Documents/argus-stream-service/build/opencv_p1.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

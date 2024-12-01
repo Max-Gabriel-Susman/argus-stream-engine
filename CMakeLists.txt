@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.15)
+project(opencv_p1 CXX)
+find_package(OpenCV REQUIRED)
+find_package(protobuf REQUIRED)
+find_package(FFMPEG REQUIRED)
+add_executable(main main.cpp)
+target_include_directories(main PRIVATE ${FFMPEG_INCLUDE_DIRS})
+target_link_directories(main PRIVATE ${FFMPEG_LIBRARY_DIRS})
+target_link_libraries(main PRIVATE ${OpenCV_LIBS} ${FFMPEG_LIBRARIES} protobuf::libprotoc
+ protobuf::libprotobuf protobuf::libprotobuf-lite)

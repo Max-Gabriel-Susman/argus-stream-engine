@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\prometheus\\Documents\\argus-stream-service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B78A681A-276B-4B1C-8924-A795938A65B5}|argus-stream-service\\argus-stream-service.vcxproj|C:\\Users\\prometheus\\Documents\\argus-stream-service\\argus-stream-service\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B78A681A-276B-4B1C-8924-A795938A65B5}|argus-stream-service\\argus-stream-service.vcxproj|solutionrelative:argus-stream-service\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\prometheus\\Documents\\argus-stream-service\\argus-stream-service\\main.cpp",
+              "RelativeDocumentMoniker": "argus-stream-service\\main.cpp",
+              "ToolTip": "C:\\Users\\prometheus\\Documents\\argus-stream-service\\argus-stream-service\\main.cpp",
+              "RelativeToolTip": "argus-stream-service\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T06:23:38.591Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

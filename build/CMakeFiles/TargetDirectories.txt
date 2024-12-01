@@ -1,0 +1,3 @@
+C:/Users/prometheus/Documents/argus-stream-service/build/CMakeFiles/main.dir
+C:/Users/prometheus/Documents/argus-stream-service/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/prometheus/Documents/argus-stream-service/build/CMakeFiles/ZERO_CHECK.dir

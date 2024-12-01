@@ -1,0 +1,7 @@
+.vscode/
+.DS_STORE
+main.go
+a.out
+go.mod
+go.sum
+vendor/
