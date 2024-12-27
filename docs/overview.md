@@ -1,1 +1,0 @@
-# Argus Stream Engine Overview
