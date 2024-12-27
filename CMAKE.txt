@@ -1,7 +1,0 @@
-"-DCMAKE_TOOLCHAIN_FILE=C:/vcpkg/scripts/buildsystems/vcpkg.cmake"
-
-example:
-
-1. vcpkg search sqlite3
-
-2. vcpkg install sqlite3
